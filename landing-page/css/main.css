@@ -1,0 +1,16 @@
+body {
+    background-image: url(/Users/mac/Documents/html/js-portfolio/js30/landing-page/img/lp2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;    
+}
+
+#video {
+    display: flex;
+    min-height: 70vh;
+    align-content: space-around;
+    position: center;
+    justify-content: center;
+}
+
